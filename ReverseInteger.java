@@ -53,11 +53,11 @@ public class ReverseInteger {
 
 //     while (x != 0)
 //     {
-//         int tail = x % 10;
-//         int newResult = result * 10 + tail;
-//         if ((newResult - tail) / 10 != result)  //this funciton can check if the integer is overflow
-//         { return 0; }
-//         result = newResult;
+        // int tail = x % 10;
+        // int newResult = result * 10 + tail;
+        // if ((newResult - tail) / 10 != result)  //this funciton can check if the integer is overflow
+        // { return 0; }
+        // result = newResult;
 //         x = x / 10;
 //     }
 
